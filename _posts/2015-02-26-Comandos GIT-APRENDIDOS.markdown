@@ -5,39 +5,39 @@ date:   2015-02-26 17:51:34
 ---
 Comandos usados durante para la creación de mi primer Blog en Git-Hub com Jekyll.
 
-jekyll new Frantwo-Blog
+* __jekyll new Frantwo-Blog__
   	----> creación de un proyecto con Jekyll
 
-jekyll server
+* __jekyll serve__
   	----> inicializa el servidor de Jekyll.
 
-jekyll build Frantwo-Blog
+* __jekyll build Frantwo-Blog__
   	----> creación del html estático.
 
-git init
+* __git init__
   	----> para inicializar el git en el directorio de trabajo.
 
-git status
+* __it status__
   	----> ver el status del git
 
-git add .
+* __it add .__
   	----> se añaden los archivos a la zona de Stagin. Al usar el "." se dice que queremos añadir todos los ficheros de ese directorio. Pero se pueden usar expresiones regulares o escribir un fichero en concreto.
 
-git commit -m "My hello world"
+* __git commit -m "My hello world"__
   	----> Se hace un commit de todo lo que hay en la zona de Stagin. 
-  	NOTA = el parámetro "-m" es para escribir un comentario del commit.
+  	_NOTA = el parámetro "-m" es para escribir un comentario del commit._
 
-git remote add origin https://github.com/frantwo/frantwo.github.io.git
+* __it remote add origin https://github.com/frantwo/frantwo.github.io.git__
   	----> Esto se usa cuando queremos crear un repositorio remoto para subir el código. Una vez creasdo si seguimos usando el mismo ya no hace falta.
-  	NOTA = "origin" es el alias para la web "https://github.com/frantwo/frantwo.github.io.git"
+  	_NOTA = "origin" es el alias para la web "https://github.com/frantwo/frantwo.github.io.git"_
 
-git remote
+* __git remote__
   	----> saca el listado de los repositorios que tengo
 
-git remote show origin
+* __git remote show origin__
   	----> muestra la dirección web del alias "origin"
 
-git push -u origin master
+* __it push -u origin master__
   	----> se sube todo lo que tenemos commiteado a la rama "master"
-  	NOTA = usando el parámetro "-u" establecemos por defecto que todos los "git push" que hagamos vayan al alias "origin" y la rama "master". Se podría usar "git push origin master2" para hacer un PUSH a la rama "master2" pero no la estaríamos poniendo por defecto como cuando usamos el parámetro "-u"
+  	_NOTA = usando el parámetro "-u" establecemos por defecto que todos los "git push" que hagamos vayan al alias "origin" y la rama "master". Se podría usar "git push origin master2" para hacer un PUSH a la rama "master2" pero no la estaríamos poniendo por defecto como cuando usamos el parámetro "-u"_
 

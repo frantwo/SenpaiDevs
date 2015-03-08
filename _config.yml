@@ -26,13 +26,13 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Francho García
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  bio: "kōhai curioso,y con ganas de aprender."
+  email: franchog79@gmail.com
   disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  twitter: @franchog79
+  facebook: francho.garcia
   google:
     plus: #username
     analytics: 
