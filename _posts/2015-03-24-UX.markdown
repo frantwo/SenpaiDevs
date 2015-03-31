@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "Aprendizaje de UX"
+date:   2015-03-24 17:51:34
+---
+
+##OBJETIVOS
+* __Específicos__
+* __Medibles__
+* __Realizables__
+* __Realistas__
+* __Limitados en el tiempo__
+
+
+##OBJETIVOS
+    Conseguir leads (oportunidad de venta a través de un formulario) de personas interesadas.
+
+
+##TAREAS
+    ¿Qué es lo que vamos a permitir hacer a las personas en nuestro sitio web?
+
+    Ejemplo:
+    - Consultar tipos de servicios
+    - Contactar a través de un formulario
+    - Contactar por teléfono
+    - Contactar por redes sociales
+
+
+##CONOCER A LOS USUARIOS
+    - Entrevistas
+    - Observación
+    - Encuentas
+    - Testing
+
+##TWEET
+    Por ellos nos atrevems a compartir un top de 10 recomendaciones relacionaas con la experiencia de usuario que hemos trabajado después de varios ñoas de experiencia:
+    1) Responder a la pregunta: porq qué he de usar tu producto o servicio y no otro?
+    2) Fijar los objetivos específicos del proyecto digital, prestando especial atención al qué, cuánto , para qué y cómo.
+    3) Determinar los perfiles de usuario y el objetivo principal de cada uno de ellos.
+    4) Ser capaz de responder a la pregunta: ¿Cuál es la principal motivacion de cada uno de los perfiles de usuario a los que se dirige mi producto o servicio?
+    5) Ser capaz de responder a la pregunta: ¿cuál es la principal motivacion de cada uno de los perfiles de usuario a los que se dirige mi producto o servicio?
+    6) Ser capaz de responder a la pregunta: ¿cómo mi producto o servicio va a solucionar la principal necesidad de cada uno de los perfiles de usuario a los que me dirigo?
+    7) Determinar qué cosas voy a permitir que las personas realicen en mi producto digital (web, app, etc..)
+    8) Determinar en qué pantallas o processos las personas van a poder satisfacer su necesidad principal.
+    9) Determinar qué métricas voy a considerar para evaluar el cumplimiento de los objetivos del proyecto.
+    10) Diseñar un plan de testing para todos los pasos en qlos que se tome una decisión en el proyecto.
+
+    Todas estas cuestiones que planteamos en este post pueden ser más o menos discutibles, pueden ser más o menos concretas, más o menos costosas. Lo que es cierto es que las compartimos desde la experiencia. Y eso sí es real.
+

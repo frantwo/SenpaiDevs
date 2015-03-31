@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello world"
+title:  "Instalación de base de datos"
 date:   2015-03-17 18:05:34
 ---
 
