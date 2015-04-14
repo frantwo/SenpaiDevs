@@ -4,7 +4,7 @@ title:  "Aprendizaje de UX"
 date:   2015-03-24 17:51:34
 ---
 
-vVisita de Daniel Torresburiel para hablarnos sobre UX (User Experience)
+Visita de Daniel Torresburiel para hablarnos sobre UX (User Experience)
 
 ##OBJETIVOS
 * __Específicos__
@@ -15,27 +15,26 @@ vVisita de Daniel Torresburiel para hablarnos sobre UX (User Experience)
 
 
 ##OBJETIVOS
-    Conseguir leads (oportunidad de venta a través de un formulario) de personas interesadas.
-
+  Conseguir leads (oportunidad de venta a través de un formulario) de personas interesadas.
 
 ##TAREAS
-    ¿Qué es lo que vamos a permitir hacer a las personas en nuestro sitio web?
+  ¿Qué es lo que vamos a permitir hacer a las personas en nuestro sitio web?
 
-    Ejemplo:
-    - Consultar tipos de servicios
-    - Contactar a través de un formulario
-    - Contactar por teléfono
-    - Contactar por redes sociales
+Ejemplo:
+  - Consultar tipos de servicios
+  - Contactar a través de un formulario
+  - Contactar por teléfono
+  - Contactar por redes sociales
 
 
 ##CONOCER A LOS USUARIOS
-    - Entrevistas
-    - Observación
-    - Encuentas
-    - Testing
+  - Entrevistas
+  - Observación
+  - Encuentas
+  - Testing
 
 ##TWEET
-Por ellos nos atrevems a compartir un top de 10 recomendaciones relacionaas con la experiencia de usuario que hemos trabajado después de varios ñoas de experiencia:
+  Por ellos nos atrevems a compartir un top de 10 recomendaciones relacionaas con la experiencia de usuario que hemos trabajado después de varios ñoas de experiencia:
 
 1. Responder a la pregunta: porq qué he de usar tu producto o servicio y no otro?
 2. Fijar los objetivos específicos del proyecto digital, prestando especial atención al qué, cuánto , para qué y cómo.
